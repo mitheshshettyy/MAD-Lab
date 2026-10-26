@@ -1,18 +1,8 @@
-﻿# Mobile Application Development Lab
+﻿# MAD Lab
 
-This repository contains MAD lab programs organized into two parts.
+Mobile Application Development lab programs using Java and XML.
 
-## Part A
-- p1
-- p2
-- p3
-- p4
-- p5
-- p6
-- p7
-- P9
-- p10
+## Structure
 
-## Part B
-- p1
-- p8
+- `A/` — Part A programs
+- `B/` — Part B programs
